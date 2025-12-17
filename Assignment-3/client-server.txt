@@ -1,0 +1,5 @@
+Hello from the client!
+This is a sample text file used for testing
+the Python socket file transfer program.
+If you see this content printed on the server side,
+your file transfer is working correctly.
